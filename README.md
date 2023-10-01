@@ -19,6 +19,7 @@ CBT Insights: Incorporate Cognitive Behavioral Therapy principles for self-impro
 Accessible Format: User-friendly JSON format for easy integration and customization.
 
 How to Use:
+
 Initiate a session with the chatbot using the /reflect command.
 
 Customize your experience with /config and /language commands.
